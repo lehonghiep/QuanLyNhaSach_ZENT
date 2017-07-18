@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/util/SQLServerConnection.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/frm/FrmNhapHang.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/util/Convert.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/HoaDonDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/frm/FrmBanHang.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/LoginDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/frm/FrmSach.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/QuyenDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/AnhBiaSachDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/util/PasswordCellRenderer.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/NhatKyBanSachDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/TacGiaDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/KhoDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/SachDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/LoaiSachDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/GioHangDAO.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/frm/FrmNhatKyBanSach.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/frm/FrmNhaXuatBan.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/frm/FrmAccountManager.java</file>
+            <file>file:/F:/00.SOURCE_CODE/Code%20Java/QuanLyNhaSach/src/com/qlth/dao/NhaXuatBanDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
